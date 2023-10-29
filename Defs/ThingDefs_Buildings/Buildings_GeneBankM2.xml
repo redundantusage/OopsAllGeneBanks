@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="GeneBank">
+    <defName>ThingGeneBankM2</defName>
+    <label>gene bank m2</label>
+    <description>Testtesttest!This building can store many genepacks and make them usable to create new xenogerms, when placed near a gene assembler. A gene archive can hold a much larger number of genepack than a conventional gene bank, designed for use in advanced medical and research facilities. Large gene libraries require many gene banks and archives.\n\nWhen powered, gene archives prevent genepacks from deteriorating and will slowly repair deterioration.</description>
+  </ThingDef>
+
+</Defs>
