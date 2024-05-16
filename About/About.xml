@@ -5,6 +5,7 @@
 	<author>Redundantusage</author>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<packageId>redundant.oopsallgenepacks</packageId>
 	<modDependencies>
